@@ -9,10 +9,11 @@
 - C/C++
 - Golang
 - x64/x86 asm
-### Lets connect
+
+### Contact 
 - Discord
 - Instagram
-- 
+  
 ### Support my Projects
-XMR
+XMR: 
 Paypal
