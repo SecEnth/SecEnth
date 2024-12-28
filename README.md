@@ -13,6 +13,6 @@
 - Discord
 - Instagram
   
-### Support my Projects
+### Donate me
 XMR: 
 Paypal
