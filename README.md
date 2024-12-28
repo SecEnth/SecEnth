@@ -5,6 +5,10 @@
 - 📫 You can contact me on discord, telegram or instagram
 -⚠️
 
+## Programming Skills
+- Python
+- C/C++
+- Go
 ## Lets connect
 
 
