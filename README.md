@@ -8,8 +8,8 @@
 ### Programming Skills
 - Python
 - C/C++
-- Go
-- 
+- Golang
+
 ### Lets connect
 
 
