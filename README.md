@@ -9,11 +9,15 @@
 - Golang
 - x64/x86 asm
 
-# Currently learning 
+### Currently learning 
+- Active Directory
 - Powershell
 - .NET C#
 - Rust
 
+### Playing CTF
+- https://hackthebox.eu
+- https://tryhackme.eu
 ### Contact 
 - Discord
 - Telegram
