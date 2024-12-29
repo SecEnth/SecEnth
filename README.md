@@ -11,7 +11,7 @@
 
 # Currently learning 
 - Powershell
-- C#
+- .NET C#
 - Rust
 
 ### Contact 
