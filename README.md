@@ -2,20 +2,20 @@
 - 👋 Hello World, I’m Justin Herrmann also known as @SecEnth 
 - 👀 I’m interested in Cybersecurity related topics such as Red-Teaming and Reverse-Engineering 
 - 🌱 I’m currently learning
-### Skills
+### 🤓Skills
 - Python
 - C/C++
 - Golang
 - x64/x86 asm
-### Currently learning 
+### 💻Currently learning☕️ 
 - Active Directory
 - Powershell
 - .NET C#
 - Rust
-### Playing CTF
+### 🎯Playing CTF🎯
 - https://hackthebox.eu
 - https://tryhackme.com
-### Contact 
+### 📱Contact📱
 - Discord
 - Telegram
 ### Support my Projects
