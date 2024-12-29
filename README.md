@@ -18,6 +18,7 @@
 - Discord
 - Telegram
   
-### Donate me
+### Support my Projects
 XMR: 83sLQkWJ4EB3hJ4s9r9RufDnUvqhNon2zdyW4sCS8Yoz87g7W4FrCWn1mU8dKV2Sa5ZHKrfXQpWUsb8QMhM8f4sGH9D4izE
+BTC: 
 Paypal: (at)email.pl
