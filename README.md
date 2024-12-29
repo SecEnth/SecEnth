@@ -5,7 +5,7 @@
 - Python
 - C/C++
 - Golang
-- x64/x86 asm
+- x64/x86 assembly
 ### 💻Currently learning☕️ 
 - Active Directory
 - Powershell
