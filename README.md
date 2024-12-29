@@ -15,7 +15,7 @@
 ### 🎯Playing CTF🎯
 - https://hackthebox.eu
 - https://tryhackme.com
-### 📱Contact📱
+### 📱Contact💬
 - Discord
 - Telegram
 ### 💸Support my Projects💸
