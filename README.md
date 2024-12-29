@@ -11,7 +11,7 @@
 
 ### Contact 
 - Discord
-- Instagram
+- Telegram
   
 ### Donate me
 XMR: 
