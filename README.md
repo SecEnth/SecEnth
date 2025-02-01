@@ -18,6 +18,9 @@
 - Adobe Illustrator
 - Adobe After Effects
 - Adobe Premiere Pro
+## Trading
+- x
+- x
 ### 🎯Playing CTF🎯
 - https://hackthebox.eu
 - https://tryhackme.com
