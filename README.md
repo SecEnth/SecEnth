@@ -15,12 +15,14 @@
 - Rust
 ### Video & Editing
 - Adobe Photoshop
+- Adobe Illustrator
 - Adobe After Effects
 - Adobe Premiere Pro
 ### 🎯Playing CTF🎯
 - https://hackthebox.eu
 - https://tryhackme.com
-### 📱Contact me💬
+### 📱Contact & Socials💬
+- Instagram: 
 - Discord: zero086913
 - Telegram: @SecEnth
 ### 💸Support my Projects💸
