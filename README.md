@@ -8,7 +8,7 @@
 - C/C++ 
 - Golang
 - x64/x86 assembly
-### 🎥Video & Editing Skills 📷 
+### 🎥Video & Foto Editing 📷 
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe After Effects
