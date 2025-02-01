@@ -8,23 +8,18 @@
 - C/C++ 
 - Golang
 - x64/x86 assembly
-### 💻Currently learning☕️ 
-- Active Directory
-- Powershell
-- .NET C#
-- Rust
 ### 🎥Video & Editing Skills 📷 
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe After Effects
 - Adobe Premiere Pro
-### Trading
+### 📊Trading💸
 - x
 - x
 ### 🎯Playing CTF🎯
 - https://hackthebox.eu
 - https://tryhackme.com
-### Hire me 
+### 🤝Hire me 💰
 - https://fiverr.com
 ### 📱Contact & Socials💬
 - https://www.linkedin.com/
