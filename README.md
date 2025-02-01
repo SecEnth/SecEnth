@@ -2,6 +2,7 @@
 - 👋 Hello World, I’m Justin Herrmann also known as @SecEnth 
 - 👀 I’m interested in Cybersecurity related topics such as Red-Teaming and Reverse-Engineering
 - 👀 Also interested in
+- 📊Intersted in Trading
 ### 🤓Programming Skillset👌
 - Python ()
 - C/C++ 
