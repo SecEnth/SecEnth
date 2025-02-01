@@ -4,8 +4,8 @@
 - 👀 Also interested in
 - 
 ### 🤓Programming Skillset👌
-- Python
-- C/C++
+- Python ()
+- C/C++ 
 - Golang
 - x64/x86 assembly
 ### 💻Currently learning☕️ 
@@ -27,10 +27,10 @@
 ### Hire me 
 - https://fiverr.com
 ### 📱Contact & Socials💬
-- Instagram: @herrmann.vfx
-             @herrmann.prv
-- Tiktok:
-- Twitter/X:  
+- Instagram: https://instagram.com/herrmann.vfx
+             https://instagram.com/herrmann.prv
+- Tiktok:    https://tiktok.com
+- Twitter/X: https://x.com
 - Discord: zero086913
 - Telegram: @SecEnth
 ### 💸Support my Projects💸
