@@ -11,6 +11,10 @@
 - Powershell
 - .NET C#
 - Rust
+### Video & Editing
+- Adobe Photoshop
+- Adobe After Effects
+- Adobe Premiere Pro
 ### 🎯Playing CTF🎯
 - https://hackthebox.eu
 - https://tryhackme.com
