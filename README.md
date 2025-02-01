@@ -27,6 +27,7 @@
 ### Hire me 
 - https://fiverr.com
 ### 📱Contact & Socials💬
+- https://www.linkedin.com/
 - Instagram: https://instagram.com/herrmann.vfx
              https://instagram.com/herrmann.prv
 - Tiktok:    https://tiktok.com
