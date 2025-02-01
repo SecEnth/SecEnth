@@ -13,7 +13,7 @@
 - Powershell
 - .NET C#
 - Rust
-### 🎥Video & Editing 📷 
+### 🎥Video & Editing Skills 📷 
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe After Effects
