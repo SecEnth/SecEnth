@@ -2,7 +2,6 @@
 - 👋 Hello World, I’m Justin Herrmann also known as @SecEnth 
 - 👀 I’m interested in Cybersecurity related topics such as Red-Teaming and Reverse-Engineering
 - 👀 Also interested in 
-
 ### 🤓Programming Skillset👌
 - Python
 - C/C++
@@ -22,7 +21,10 @@
 - https://hackthebox.eu
 - https://tryhackme.com
 ### 📱Contact & Socials💬
-- Instagram: 
+- Instagram: @herrmann.vfx
+             @herrmann.prv
+- Tiktok:
+- Twitter/X:  
 - Discord: zero086913
 - Telegram: @SecEnth
 ### 💸Support my Projects💸
