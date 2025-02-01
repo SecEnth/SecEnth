@@ -13,7 +13,7 @@
 - Powershell
 - .NET C#
 - Rust
-### Video & Editing
+### 🎥Video & Editing 📷 
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe After Effects
@@ -23,7 +23,6 @@
 - https://tryhackme.com
 ### Hire me on fiverr
 - https://fiverr.com
-
 ### 📱Contact & Socials💬
 - Instagram: @herrmann.vfx
              @herrmann.prv
