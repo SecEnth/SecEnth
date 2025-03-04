@@ -11,7 +11,7 @@
 ### 🤓Programming Skillset👌
 - Python
 - C/C++/C#
-- Rust & Go 
+- Rust/Go/Nim
 - x64/x86 assembly
 - Powershell & Vbs
 ### 🎥Video & Foto Editing 📷 
