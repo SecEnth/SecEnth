@@ -1,27 +1,28 @@
 ### Here some basic infos About me
 - 👋 Hello World, I’m Justin Herrmann also known as @SecEnth 
-- 👀 I’m interested in Cybersecurity related topics such as Red-Teaming, Reverse-Engineering, OSINT, Windows-Internals
-- 👀 Also interested in
+- 👀 I’m interested in Cybersecurity related topics:
+  - Red Teaming 
+  - Reverse Engineering & Malware Analysis
+  - OSINT
 - 📊Interested in Trading
+### certifications:
+- 
+- 
+- 
 ### 🤓Programming Skillset👌
-- Python ()
-- C/C++ 
-- Golang
+- Python
+- C/C++/C#
+- Rust & Go 
 - x64/x86 assembly
+- Powershell & Vbs
 ### 🎥Video & Foto Editing 📷 
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe After Effects
 - Adobe Premiere Pro
-### 📊Trading💸
-- x
-- x
 ### 🎯Playing CTF🎯
 - https://hackthebox.eu
 - https://tryhackme.com
-### 🤝Freelancing💰
-- https://fiverr.com
-- https://
 ### 📱Contact & Socials💬
 - https://www.linkedin.com/
 - Instagram: https://instagram.com/herrmann.vfx
