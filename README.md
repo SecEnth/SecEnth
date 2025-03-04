@@ -4,7 +4,6 @@
   - Red Teaming 
   - Reverse Engineering & Malware Analysis
   - OSINT
-- 📊Interested in Trading
 ### certifications:
 - 
 - 
