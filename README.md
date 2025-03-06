@@ -9,11 +9,10 @@
 - 
 - 
 ### 🤓Programming Skillset👌
-- Python
+- Python/Powershell/Vbs
 - C/C++/C#
 - Rust/Go/Nim
 - x64/x86 assembly
-- Powershell & Vbs
 ### 🎥Video & Foto Editing 📷 
 - Adobe Photoshop
 - Adobe Illustrator
