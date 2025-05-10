@@ -22,6 +22,7 @@
 ## 💻 Programming Skillset | Programmiersprachen
 - 🐍 Python 🐍
   - Web Scraping: BeautifulSoup, Requests, Selenium, Scrapy, PlayWright)
+  - Bot Development: Telegram & Discord Bots
   - 
 - Go 
   - 
