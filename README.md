@@ -21,7 +21,7 @@
 - https://hackthebox.eu
 - https://tryhackme.com
 ### 📱Contact & Socials💬
-- https://www.linkedin.com/
+- Linkedin:  https://www.linkedin.com/
 - Twitter/X: https://x.com
 - Discord: zero086913
 - Telegram: @SecEnth
