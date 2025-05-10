@@ -1,31 +1,73 @@
-### Here some basic infos About me
-- 👋 Hello World, I’m Justin Herrmann also known as @SecEnth 
-- 👀 I’m interested in Cybersecurity related topics:
-  - Red Teaming 
-  - Reverse Engineering & Malware Analysis
-  - OSINT
-### 🤓Programming Skillset👌
-- Python/Powershell/Vbs
-- C/C++/C#
-- Rust/Go/Nim
-- x64/x86 assembly 
-### 🎥Video & Foto Editing 📷 
-- Editing Portfolio 
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe After Effects
-- Adobe Premiere Pro
-### Freelancing ###
-- https://fiverr.com/sellers/SecEnth
-### 🎯Playing CTF🎯
-- https://hackthebox.eu
-- https://tryhackme.com
-### 📱Contact & Socials💬
-- Linkedin:  https://www.linkedin.com/
-- Twitter/X: https://x.com
-- Discord: zero086913
-- Telegram: @SecEnth
-### 💸Support my Projects💸
-- XMR: 89qhxgv31XS94ajCGbRzfZ217B9Np9xPWTVNWaeftrEPM5m483UiCYQf3ETMKzdvqKCxmXg25jzgc1N31fsyBb3d1vaxJne
-- BTC: 
-- Paypal: (at)email.pl
+<h1 align="center">Hi 👋, I'm Justin Herrmann (aka SecEnth)</h1>
+<p align="center">
+  <strong>💻 Cybersecurity Enthusiast | 🎬 Content Creator | 🎯 CTF Player</strong><br>
+  <em>Bilingual: English & Deutsch 🇬🇧 🇩🇪</em>
+</p>
+
+---
+
+## 🧠 About Me | Über mich
+
+🇬🇧 **Hello World!** I'm Justin Herrmann, also known as `@SecEnth`. I'm a student deeply passionate about cybersecurity and digital creativity.  
+🇩🇪 **Hallo Welt!** Ich bin Justin Herrmann (aka `@SecEnth`), Schüler mit einer großen Leidenschaft für Cybersecurity und digitale Medien.
+
+---
+
+## 🔐 Interests | Interessen
+
+- 🛡️ Red Teaming & Offensive Security  
+- 🐞 Reverse Engineering & Malware Analysis  
+- 🌍 OSINT & Investigation  
+- 🎯 Capture The Flag (CTF) on [HackTheBox](https://hackthebox.eu) & [TryHackMe](https://tryhackme.com)
+
+---
+
+## 💻 Programming Skillset | Programmiersprachen
+
+- 🐍 Python, PowerShell, VBScript  
+- 🧠 C, C++, C#  
+- ⚙️ Rust, Go, Nim  
+- 🧬 x64/x86 Assembly
+
+---
+
+## 🎥 Video & Photo Editing | Video- & Fotobearbeitung
+
+- 🎞️ Adobe Premiere Pro & After Effects  
+- 📸 Adobe Photoshop & Illustrator  
+- 📂 Editing Portfolio in Progress
+
+---
+
+## 💼 Freelance Work | Freie Projekte
+
+🔗 [Fiverr Profil](https://fiverr.com/sellers/SecEnth)
+
+---
+
+## 📱 Contact & Socials | Kontakt & Soziale Medien
+
+- 🔗 [LinkedIn](https://www.linkedin.com/)  
+- 🐦 [Twitter/X](https://x.com)  
+- 💬 Discord: `zero086913`  
+- 📲 Telegram: [@SecEnth](https://t.me/SecEnth)
+
+---
+
+## 📊 GitHub Stats (Optional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SecEnth&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 💸 Support My Work | Unterstütze meine Projekte
+
+- XMR: `89qhxgv31XS94ajCGbR...`
+- BTC: *(please add your wallet)*
+- PayPal: `at@email.pl`
+
+---
+
+
