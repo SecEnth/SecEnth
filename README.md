@@ -10,7 +10,7 @@
 - Rust/Go/Nim
 - x64/x86 assembly 
 ### 🎥Video & Foto Editing 📷 
-- >>> Editing Portfolio <<<
+- Editing Portfolio 
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe After Effects
