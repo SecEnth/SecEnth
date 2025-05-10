@@ -7,14 +7,11 @@
 ---
 
 ## 🧠 About Me | Über mich
-
-🇬🇧 **Hello World!** I'm Justin Herrmann, also known as `@SecEnth`. I'm a student deeply passionate about cybersecurity and digital creativity.  
 🇩🇪 **Hallo Welt!** Ich bin Justin Herrmann (aka `@SecEnth`), Schüler mit einer großen Leidenschaft für Cybersecurity und digitale Medien.
-
+🇬🇧 **Hello World!** I'm Justin Herrmann, also known as `@SecEnth`. I'm a student deeply passionate about cybersecurity and digital creativity.  
 ---
 
 ## 🔐 Interests | Interessen
-
 - 🛡️ Red Teaming & Offensive Security  
 - 🐞 Reverse Engineering & Malware Analysis  
 - 🌍 OSINT & Investigation  
