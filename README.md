@@ -20,8 +20,14 @@
 ---
 
 ## 💻 Programming Skillset | Programmiersprachen
-
-- 🐍 Python, PowerShell, VBScript  
+- 🐍 Python 🐍
+  - Web Scraping: BeautifulSoup, Requests, Selenium, Scrapy, PlayWright)
+  - 
+- Go 
+  - 
+  - 
+- 
+- PowerShell, VBScript  
 - 🧠 C, C++, C#  
 - ⚙️ Rust, Go, Nim  
 - 🧬 x64/x86 Assembly
