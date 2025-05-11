@@ -53,9 +53,6 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/)  
 - 🐦 [Twitter/X](https://x.com)  
-- 💬 Discord: `zero086913`  
-- 📲 Telegram: [@SecEnth](https://t.me/SecEnth)
-
 ---
 
 ## 📊 GitHub Stats (Optional)
