@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Justin Herrmann (aka SecEnth)</h1>
 <p align="center">
-  <strong>💻 Cybersecurity Enthusiast | 🎬 Content Creator | 🎯 CTF Player</strong><br>
+  <strong>💻 Cybersecurity Enthusiast | 🎯 CTF Player</strong><br>
   <em>Bilingual: English & Deutsch 🇬🇧 🇩🇪</em>
 </p>
 
