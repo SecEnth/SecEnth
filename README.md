@@ -23,7 +23,6 @@
 - 🐍 Python 🐍
   - Web Scraping & Browser Automatization: BeautifulSoup, Requests, Selenium, Scrapy, PlayWright)
   - Bot Development: Telegram & Discord Bots
-  - 
 - Go 
   - 
   - 
@@ -36,17 +35,13 @@
 ---
 
 ## 🎥 Video & Photo Editing | Video- & Fotobearbeitung
-
 - 🎞️ Adobe Premiere Pro & After Effects  
 - 📸 Adobe Photoshop & Illustrator  
 - 📂 Editing Portfolio in Progress
 
 ---
-
 ## 💼 Freelance Work | Freie Projekte
-
 🔗 [Fiverr Profil](https://fiverr.com/sellers/SecEnth)
-
 ---
 
 ## 📱 Contact & Socials | Kontakt & Soziale Medien
