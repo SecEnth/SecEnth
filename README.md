@@ -25,13 +25,10 @@
 - Go 
   - 
   - 
-- 
-- PowerShell, VBScript  
-- 🧠 C, C++, C#  
-- ⚙️ Rust, Go, Nim  
+- Rust
+  -  
+  -   
 - 🧬 x64/x86 Assembly
-
----
 
 ## 🎥 Video & Photo Editing | Video- & Fotobearbeitung
 - 🎞️ Adobe Premiere Pro & After Effects  
