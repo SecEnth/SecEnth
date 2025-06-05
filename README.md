@@ -25,11 +25,15 @@
   - 
 - Rust
   -  
-  -   
+  -
 - 🧬 x64/x86 Assembly
 
+- Database Tech
+ - 
+ - 
+
 ---
-## 💼 Freelance Work | Freie Projekte
+## 💼 Freelance Work 
 🔗 [Fiverr Profil](https://fiverr.com/sellers/SecEnth)
 ---
 
