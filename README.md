@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Justin Herrmann (aka SecEnth)</h1>
 <p align="center">
   <strong>💻 Cybersecurity Enthusiast | 🎯 CTF Player</strong><br>
-  <em>Bilingual: English & Deutsch 🇬🇧 🇩🇪</em>
 </p>
 
 ---
 
-## 🧠 About Me | Über mich
+## 🧠 About Me 
 **Hello World!** I'm Justin Herrmann, also known as `@SecEnth`. I'm a student deeply passionate about cybersecurity and digital creativity.  
 ---
 
-## 🔐 Interests | Interessen
+## 🔐 Interests 
 - 🛡️ Red Teaming & Offensive Security  
 - 🐞 Reverse Engineering & Malware Analysis  
 - 🌍 OSINT & Investigation  
 - 🎯 Capture The Flag (CTF) on [HackTheBox](https://hackthebox.eu) & [TryHackMe](https://tryhackme.com)
 
 ---
-
 ## 💻 Programming Skillset | Programmiersprachen
 - 🐍 Python 🐍
   - Web Scraping & Browser Automatization: BeautifulSoup, Requests, Selenium, Scrapy, PlayWright)
@@ -30,18 +28,13 @@
   -   
 - 🧬 x64/x86 Assembly
 
-## 🎥 Video & Photo Editing | Video- & Fotobearbeitung
-- 🎞️ Adobe Premiere Pro & After Effects  
-- 📸 Adobe Photoshop & Illustrator  
-- 📂 Editing Portfolio in Progress
 
 ---
 ## 💼 Freelance Work | Freie Projekte
 🔗 [Fiverr Profil](https://fiverr.com/sellers/SecEnth)
 ---
 
-## 📱 Contact & Socials | Kontakt & Soziale Medien
-
+## 📱 Contact & Socials 
 - 🔗 [LinkedIn](https://www.linkedin.com/)  
 - 🐦 [Twitter/X](https://x.com)  
 ---
@@ -53,13 +46,10 @@
 </p>
 
 ---
-
 ## 💸 Support My Work | Unterstütze meine Projekte
-
 - XMR: `89qhxgv31XS94ajCGbR...`
 - BTC: *(please add your wallet)*
 - PayPal: `at@email.pl`
-
 ---
 
 
