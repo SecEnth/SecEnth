@@ -16,7 +16,7 @@
 - 🎯 Capture The Flag (CTF) on [HackTheBox](https://hackthebox.eu) & [TryHackMe](https://tryhackme.com)
 
 ---
-## 💻 Programming Skillset | Programmiersprachen
+## 💻 Programming Skillset
 - 🐍 Python 🐍
   - Web Scraping & Browser Automatization: BeautifulSoup, Requests, Selenium, Scrapy, PlayWright)
   - Bot Development: Telegram & Discord Bots
@@ -27,7 +27,6 @@
   -  
   -   
 - 🧬 x64/x86 Assembly
-
 
 ---
 ## 💼 Freelance Work | Freie Projekte
